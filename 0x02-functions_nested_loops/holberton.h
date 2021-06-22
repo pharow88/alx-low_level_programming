@@ -36,5 +36,6 @@ int _strlen(char *c);
 
 void _rot13(char *c);
 void rev_string(char *s);
+void print_alphabet(void);
 
 #endif
