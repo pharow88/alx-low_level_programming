@@ -32,10 +32,7 @@ int print_decimal(va_list arg);
 int print_binary(va_list arg);
 int print_reverse(va_list arg);
 int print_rot13(va_list arg);
-int _strlen(char *c);
 
-void _rot13(char *c);
-void rev_string(char *s);
 void print_alphabet(void);
-
+void print_alphabet_x10(void);
 #endif
