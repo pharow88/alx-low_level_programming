@@ -32,6 +32,7 @@ int print_decimal(va_list arg);
 int print_binary(va_list arg);
 int print_reverse(va_list arg);
 int print_rot13(va_list arg);
+int _islower(int c);
 
 void print_alphabet(void);
 void print_alphabet_x10(void);
